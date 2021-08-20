@@ -3,7 +3,7 @@
 
 ## Mission  
 
-Transformer la maquette d'un cv en site web.  
+Implementer la version mobile d'un site foodtech avec des animations CSS. 
 
 ## Compétences évaluées  
 
